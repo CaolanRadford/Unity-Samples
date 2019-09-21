@@ -9,4 +9,4 @@ To get around this I wrote my own static method that searches for mono-behaviour
 When searching scene wide, it is difficult to return interface implementaions from non-monobehaviours too.
 To get around this I wrote another method to search for interfaces scene-wide by searching for any state machines, and then looking through any non-monobehaviours that they have created.
 
-These solutions are not perfect as it requires me to adhere to a more rigid project archtecture, so I am always on the lookout for any other solutions.
+These solutions aren't perfect as they require me to adhere to a rigid project archtecture, so I am always on the lookout for more flexible solutions.
