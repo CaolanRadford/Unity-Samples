@@ -3,7 +3,7 @@ using Boo.Lang;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace K_LanUtilities
+namespace Kay_LanUtilities
 {
     //the main methods used to grab interfaces that are both mono behaviours and non-monobehaviours during initialisation
     public class DependencyInjection : MonoBehaviour
