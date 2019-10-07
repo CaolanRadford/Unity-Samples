@@ -1,6 +1,6 @@
 # Samples
 Sample code from my latest project: 'Ratbag'.
-This repo is intended to give an idea of how I currently like to program through Unity using C#.
+This repo is intended to give an idea of how I currently like to program through Unity using C#. I have provided examples of patterns that I have found particularly useful, including: A finite state machine, lots of observer/subscribers, a service locator to avoid global state, adaptors to sit on top of unity components, a humble object used for unit testing.
 
 Disclaimer:
 
